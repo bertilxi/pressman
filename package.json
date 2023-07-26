@@ -1,0 +1,33 @@
+{
+  "name": "pressman",
+  "version": "0.1.0",
+  "description": "news bot",
+  "author": "Fernando Berti <me@fberti.com>",
+  "type": "module",
+  "scripts": {},
+  "license": "MIT",
+  "dependencies": {
+    "@tsconfig/node-lts": "^18.12.3",
+    "axios": "^1.4.0",
+    "dayjs": "^1.11.9",
+    "dotenv": "^16.3.1",
+    "lodash-es": "^4.17.21",
+    "mongodb": "^5.7.0",
+    "papr": "^14.0.0",
+    "tsx": "^3.12.7"
+  },
+  "devDependencies": {
+    "@types/eslint": "^8.44.1",
+    "@types/lodash-es": "^4.17.8",
+    "@types/node": "^20.4.5",
+    "@typescript-eslint/eslint-plugin": "^6.2.0",
+    "@typescript-eslint/parser": "^6.2.0",
+    "eslint": "^8.45.0",
+    "eslint-config-prettier": "^8.8.0",
+    "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-simple-import-sort": "^10.0.0",
+    "eslint-plugin-sonarjs": "^0.19.0",
+    "prettier": "^3.0.0",
+    "typescript": "^5.1.6"
+  }
+}
